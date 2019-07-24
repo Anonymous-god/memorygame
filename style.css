@@ -1,0 +1,45 @@
+body { 
+	background-image: url("background-4k.jpg");
+
+}
+h1 { font-size :25px;
+     color : yellow;
+	 text-align : center;
+	 margin-bottom: 6px;
+}
+h6 {
+	 font-size :15px;
+     color : yellow;
+	 text-align : center;
+	 margin-bottom: 6px;
+}
+
+ table {
+  margin : auto ;
+
+   }
+  td {
+
+  background-color: white;
+  padding: 35px;
+  font-size : 50px;
+  }
+  
+  .fa.fa-ambulance.fa-lg {
+	  color: red;
+  }
+  .fa.fa-medkit.fa-lg, .fa.fa-heart.fa-lg{
+	  color: green;
+  }
+  .fa.fa-stethoscope.fa-lg {
+	  color: purple;
+  }
+  .fa.fa-heartbeat.fa-lg{
+	  color: red;
+  }
+  .fa.fa-h-square.fa-lg, .fa.fa-user-md.fa-lg{
+	  color: orange;
+  }
+  .fa.fa-hospital-o.fa-lg{
+	  color: purple;
+  }
